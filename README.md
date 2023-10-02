@@ -12,3 +12,7 @@ function myFunction(p1,p2){
 return p1*p2;
 }
 ```
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
